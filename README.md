@@ -4,22 +4,22 @@
 <img width="128px" src="https://file.labex.io/path/GAbMWgBPUOxV.png">
 </div>
 
-C is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, with a static type system. By design, C provides constructs that map efficiently to typical machine instructions. It has found lasting use in applications previously coded in assembly language. Such applications include operating systems and various application software for computer architectures that range from supercomputers to PLCs and embedded systems.
+C programming is fundamental to computer science. This Skill Tree presents a systematic approach to learning C language. Ideal for programming beginners, it offers a clear roadmap to understand memory management, pointers, and system-level programming. Hands-on, non-video courses and coding exercises in an interactive C language playground ensure you develop practical skills in writing efficient C programs.
 
 |   Index | Name                                                                                                                                       | Level   | Project Link                                                                                        |
 |---------|--------------------------------------------------------------------------------------------------------------------------------------------|---------|-----------------------------------------------------------------------------------------------------|
-|      01 | [Creating a Simple Clock Animation Using OpenGL](https://labex.io/courses/project-creating-a-simple-clock-animation-using-opengl-and-glut) | ★☆☆     | [🚀 Start](https://labex.io/courses/project-creating-a-simple-clock-animation-using-opengl-and-glut) |
-|      02 | [Creating a Simple Tic-Tac-Toe Game in C](https://labex.io/courses/project-creating-a-simple-tic-tac-toe-game-in-c)                        | ★☆☆     | [🚀 Start](https://labex.io/courses/project-creating-a-simple-tic-tac-toe-game-in-c)                 |
-|      03 | [File Type Statistics Using C](https://labex.io/courses/project-file-type-statistics-using-c)                                              | ★☆☆     | [🚀 Start](https://labex.io/courses/project-file-type-statistics-using-c)                            |
-|      04 | [Typing Practice Program Using C](https://labex.io/courses/project-typing-practice-program-using-c)                                        | ★☆☆     | [🚀 Start](https://labex.io/courses/project-typing-practice-program-using-c)                         |
-|      05 | [Creating a Dynamic Heart Animation With C](https://labex.io/courses/project-creating-a-dynamic-heart-animation-with-c)                    | ★☆☆     | [🚀 Start](https://labex.io/courses/project-creating-a-dynamic-heart-animation-with-c)               |
-|      06 | [Creating a 2048 Game in C](https://labex.io/courses/project-creating-a-2048-game-in-c)                                                    | ★☆☆     | [🚀 Start](https://labex.io/courses/project-creating-a-2048-game-in-c)                               |
-|      07 | [Create a Simple Stopwatch App Using GTK](https://labex.io/courses/project-create-a-simple-stopwatch-app-using-gtk)                        | ★☆☆     | [🚀 Start](https://labex.io/courses/project-create-a-simple-stopwatch-app-using-gtk)                 |
-|      08 | [Creating a Snake Game in C](https://labex.io/courses/project-creating-a-snake-game-in-c)                                                  | ★☆☆     | [🚀 Start](https://labex.io/courses/project-creating-a-snake-game-in-c)                              |
-|      09 | [Making a Simple Calculator Using C](https://labex.io/courses/project-making-a-simple-calculator-using-c)                                  | ★☆☆     | [🚀 Start](https://labex.io/courses/project-making-a-simple-calculator-using-c)                      |
-|      10 | [Building Flappy Bird Using C](https://labex.io/courses/project-building-flappy-bird-using-c)                                              | ★☆☆     | [🚀 Start](https://labex.io/courses/project-building-flappy-bird-using-c)                            |
-|      11 | [Creating a Gomoku Game in C](https://labex.io/courses/project-creating-a-gomoku-game-in-c)                                                | ★☆☆     | [🚀 Start](https://labex.io/courses/project-creating-a-gomoku-game-in-c)                             |
-|      12 | [Creating a Code Rain in C Using Ncurses](https://labex.io/courses/project-creating-a-code-rain-in-c-using-ncurses)                        | ★☆☆     | [🚀 Start](https://labex.io/courses/project-creating-a-code-rain-in-c-using-ncurses)                 |
+|      01 | [Building Flappy Bird Using C](https://labex.io/courses/project-building-flappy-bird-using-c)                                              | ★☆☆     | [🚀 Start](https://labex.io/courses/project-building-flappy-bird-using-c)                            |
+|      02 | [Making a Simple Calculator Using C](https://labex.io/courses/project-making-a-simple-calculator-using-c)                                  | ★☆☆     | [🚀 Start](https://labex.io/courses/project-making-a-simple-calculator-using-c)                      |
+|      03 | [Creating a Gomoku Game in C](https://labex.io/courses/project-creating-a-gomoku-game-in-c)                                                | ★☆☆     | [🚀 Start](https://labex.io/courses/project-creating-a-gomoku-game-in-c)                             |
+|      04 | [Creating a Snake Game in C](https://labex.io/courses/project-creating-a-snake-game-in-c)                                                  | ★☆☆     | [🚀 Start](https://labex.io/courses/project-creating-a-snake-game-in-c)                              |
+|      05 | [File Type Statistics Using C](https://labex.io/courses/project-file-type-statistics-using-c)                                              | ★☆☆     | [🚀 Start](https://labex.io/courses/project-file-type-statistics-using-c)                            |
+|      06 | [Typing Practice Program Using C](https://labex.io/courses/project-typing-practice-program-using-c)                                        | ★☆☆     | [🚀 Start](https://labex.io/courses/project-typing-practice-program-using-c)                         |
+|      07 | [Creating a 2048 Game in C](https://labex.io/courses/project-creating-a-2048-game-in-c)                                                    | ★☆☆     | [🚀 Start](https://labex.io/courses/project-creating-a-2048-game-in-c)                               |
+|      08 | [Creating a Code Rain in C Using Ncurses](https://labex.io/courses/project-creating-a-code-rain-in-c-using-ncurses)                        | ★☆☆     | [🚀 Start](https://labex.io/courses/project-creating-a-code-rain-in-c-using-ncurses)                 |
+|      09 | [Creating a Simple Tic-Tac-Toe Game in C](https://labex.io/courses/project-creating-a-simple-tic-tac-toe-game-in-c)                        | ★☆☆     | [🚀 Start](https://labex.io/courses/project-creating-a-simple-tic-tac-toe-game-in-c)                 |
+|      10 | [Create a Simple Stopwatch App Using GTK](https://labex.io/courses/project-create-a-simple-stopwatch-app-using-gtk)                        | ★☆☆     | [🚀 Start](https://labex.io/courses/project-create-a-simple-stopwatch-app-using-gtk)                 |
+|      11 | [Creating a Simple Clock Animation Using OpenGL](https://labex.io/courses/project-creating-a-simple-clock-animation-using-opengl-and-glut) | ★☆☆     | [🚀 Start](https://labex.io/courses/project-creating-a-simple-clock-animation-using-opengl-and-glut) |
+|      12 | [Creating a Dynamic Heart Animation With C](https://labex.io/courses/project-creating-a-dynamic-heart-animation-with-c)                    | ★☆☆     | [🚀 Start](https://labex.io/courses/project-creating-a-dynamic-heart-animation-with-c)               |
 |      13 | [Implementing Callback Functions in C](https://labex.io/courses/project-callback-functions)                                                | ★☆☆     | [🚀 Start](https://labex.io/courses/project-callback-functions)                                      |
 |      14 | [Synchronize Multithreaded Printing with Mutex](https://labex.io/courses/project-chaotic-typewriter)                                       | ★☆☆     | [🚀 Start](https://labex.io/courses/project-chaotic-typewriter)                                      |
 |      15 | [Parsing Command Line Arguments in C](https://labex.io/courses/project-command-line-arguments)                                             | ★☆☆     | [🚀 Start](https://labex.io/courses/project-command-line-arguments)                                  |
@@ -31,15 +31,15 @@ C is a general-purpose, procedural computer programming language supporting stru
 ## More Projects
 
 - [Linux Programming Projects](https://github.com/labex-labs/practice-linux-programming-projects)
-- [Python Programming Projects](https://github.com/labex-labs/practice-python-programming-projects)
 - [DevOps Programming Projects](https://github.com/labex-labs/practice-devops-programming-projects)
-- [Web Development Programming Projects](https://github.com/labex-labs/practice-web-development-programming-projects)
-- [Data Science Programming Projects](https://github.com/labex-labs/practice-data-science-programming-projects)
-- [Big Data Programming Projects](https://github.com/labex-labs/practice-bigdata-programming-projects)
-- [Cyber Security Programming Projects](https://github.com/labex-labs/practice-cysec-programming-projects)
-- [Machine Learning Programming Projects](https://github.com/labex-labs/practice-ml-programming-projects)
+- [Cybersecurity Programming Projects](https://github.com/labex-labs/practice-cybersecurity-programming-projects)
+- [Python Programming Projects](https://github.com/labex-labs/practice-python-programming-projects)
 - [Docker Programming Projects](https://github.com/labex-labs/practice-docker-programming-projects)
+- [Data Science Programming Projects](https://github.com/labex-labs/practice-data-science-programming-projects)
 - [Kubernetes Programming Projects](https://github.com/labex-labs/practice-kubernetes-programming-projects)
+- [Big Data Programming Projects](https://github.com/labex-labs/practice-bigdata-programming-projects)
+- [Machine Learning Programming Projects](https://github.com/labex-labs/practice-ml-programming-projects)
+- [Web Development Programming Projects](https://github.com/labex-labs/practice-web-development-programming-projects)
 - [Git Programming Projects](https://github.com/labex-labs/practice-git-programming-projects)
 - [Ansible Programming Projects](https://github.com/labex-labs/practice-ansible-programming-projects)
 - [Jenkins Programming Projects](https://github.com/labex-labs/practice-jenkins-programming-projects)
@@ -49,10 +49,7 @@ C is a general-purpose, procedural computer programming language supporting stru
 - [C++ Programming Projects](https://github.com/labex-labs/practice-cpp-programming-projects)
 - [C Programming Projects](https://github.com/labex-labs/practice-c-programming-projects)
 - [MySQL Programming Projects](https://github.com/labex-labs/practice-mysql-programming-projects)
-- [Go Programming Projects](https://github.com/labex-labs/practice-go-programming-projects)
-- [Rust Programming Projects](https://github.com/labex-labs/practice-rust-programming-projects)
-- [OpenCV Programming Projects](https://github.com/labex-labs/practice-opencv-programming-projects)
-- [Django Programming Projects](https://github.com/labex-labs/practice-django-programming-projects)
+- [Golang Programming Projects](https://github.com/labex-labs/practice-go-programming-projects)
 - [Pandas Programming Projects](https://github.com/labex-labs/practice-pandas-programming-projects)
 - [NumPy Programming Projects](https://github.com/labex-labs/practice-numpy-programming-projects)
 - [scikit-learn Programming Projects](https://github.com/labex-labs/practice-sklearn-programming-projects)
@@ -62,7 +59,6 @@ C is a general-purpose, procedural computer programming language supporting stru
 - [CSS Programming Projects](https://github.com/labex-labs/practice-css-programming-projects)
 - [JavaScript Programming Projects](https://github.com/labex-labs/practice-javascript-programming-projects)
 - [React Programming Projects](https://github.com/labex-labs/practice-react-programming-projects)
-- [jQuery Programming Projects](https://github.com/labex-labs/practice-jquery-programming-projects)
 
 
 ## Other Lists
