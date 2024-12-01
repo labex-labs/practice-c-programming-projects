@@ -59,6 +59,7 @@ C programming is fundamental to computer science. This Skill Tree presents a sys
 - [CSS Programming Projects](https://github.com/labex-labs/practice-css-programming-projects)
 - [JavaScript Programming Projects](https://github.com/labex-labs/practice-javascript-programming-projects)
 - [React Programming Projects](https://github.com/labex-labs/practice-react-programming-projects)
+- [MongoDB Programming Projects](https://github.com/labex-labs/practice-mongodb-programming-projects)
 
 
 ## Other Lists
