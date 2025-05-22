@@ -1,0 +1,42 @@
+# Pratiquer les Projets de Programmation C
+
+## Langues
+
+🇨🇳 [简体中文](README_zh.md) 🇯🇵 [日本語](README_ja.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
+
+<div align="center">
+<img width="128px" src="https://file.labex.io/path/GAbMWgBPUOxV.png">
+</div>
+
+La programmation en C est la pierre angulaire de l'informatique. Cet arbre de compétences offre une méthode systématique pour apprendre le langage C. Il est idéal pour les débutants en programmation, proposant un parcours clair pour comprendre la gestion de la mémoire, les pointeurs et la programmation au niveau système. Des cours pratiques sans vidéo et des exercices de codage dans un environnement interactif de langage C vous aident à développer des compétences pratiques pour écrire des programmes C efficaces.
+
+## Exercices
+
+|   Index | Nom                                                                                                                                                  | Difficulté   | Pratique                                                                                                           |
+|---------|------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------------|
+|      01 | [Création de Flappy Bird en utilisant le langage C](https://labex.io/fr/courses/project-building-flappy-bird-using-c)                                | ★☆☆          | [🚀 Commencer le Lab](https://labex.io/fr/courses/project-building-flappy-bird-using-c)                            |
+|      02 | [Création d'une calculatrice simple en utilisant le langage C](https://labex.io/fr/courses/project-making-a-simple-calculator-using-c)               | ★☆☆          | [🚀 Commencer le Lab](https://labex.io/fr/courses/project-making-a-simple-calculator-using-c)                      |
+|      03 | [Création d'un jeu de Gomoku en C](https://labex.io/fr/courses/project-creating-a-gomoku-game-in-c)                                                  | ★☆☆          | [🚀 Commencer le Lab](https://labex.io/fr/courses/project-creating-a-gomoku-game-in-c)                             |
+|      04 | [Création d'un jeu du serpent en C](https://labex.io/fr/courses/project-creating-a-snake-game-in-c)                                                  | ★☆☆          | [🚀 Commencer le Lab](https://labex.io/fr/courses/project-creating-a-snake-game-in-c)                              |
+|      05 | [Statistiques des types de fichiers avec le langage C](https://labex.io/fr/courses/project-file-type-statistics-using-c)                             | ★☆☆          | [🚀 Commencer le Lab](https://labex.io/fr/courses/project-file-type-statistics-using-c)                            |
+|      06 | [Programme d'entraînement à la frappe en utilisant le langage C](https://labex.io/fr/courses/project-typing-practice-program-using-c)                | ★☆☆          | [🚀 Commencer le Lab](https://labex.io/fr/courses/project-typing-practice-program-using-c)                         |
+|      07 | [Création d'un jeu 2048 en C](https://labex.io/fr/courses/project-creating-a-2048-game-in-c)                                                         | ★☆☆          | [🚀 Commencer le Lab](https://labex.io/fr/courses/project-creating-a-2048-game-in-c)                               |
+|      08 | [Création d'une pluie de code en C en utilisant Ncurses](https://labex.io/fr/courses/project-creating-a-code-rain-in-c-using-ncurses)                | ★☆☆          | [🚀 Commencer le Lab](https://labex.io/fr/courses/project-creating-a-code-rain-in-c-using-ncurses)                 |
+|      09 | [Création d'un jeu de Morpion simple en C](https://labex.io/fr/courses/project-creating-a-simple-tic-tac-toe-game-in-c)                              | ★☆☆          | [🚀 Commencer le Lab](https://labex.io/fr/courses/project-creating-a-simple-tic-tac-toe-game-in-c)                 |
+|      10 | [Créer une application de chronomètre simple avec GTK](https://labex.io/fr/courses/project-create-a-simple-stopwatch-app-using-gtk)                  | ★☆☆          | [🚀 Commencer le Lab](https://labex.io/fr/courses/project-create-a-simple-stopwatch-app-using-gtk)                 |
+|      11 | [Création d'une animation d'horloge simple avec OpenGL](https://labex.io/fr/courses/project-creating-a-simple-clock-animation-using-opengl-and-glut) | ★☆☆          | [🚀 Commencer le Lab](https://labex.io/fr/courses/project-creating-a-simple-clock-animation-using-opengl-and-glut) |
+|      12 | [Création d'une animation dynamique de cœur avec le langage C](https://labex.io/fr/courses/project-creating-a-dynamic-heart-animation-with-c)        | ★☆☆          | [🚀 Commencer le Lab](https://labex.io/fr/courses/project-creating-a-dynamic-heart-animation-with-c)               |
+|      13 | [Implémentation de fonctions de rappel en C](https://labex.io/fr/courses/project-callback-functions)                                                 | ★☆☆          | [🚀 Commencer le Lab](https://labex.io/fr/courses/project-callback-functions)                                      |
+|      14 | [Synchroniser l'impression multithreadée avec un mutex](https://labex.io/fr/courses/project-chaotic-typewriter)                                      | ★☆☆          | [🚀 Commencer le Lab](https://labex.io/fr/courses/project-chaotic-typewriter)                                      |
+|      15 | [Analyse des arguments de ligne de commande en C](https://labex.io/fr/courses/project-command-line-arguments)                                        | ★☆☆          | [🚀 Commencer le Lab](https://labex.io/fr/courses/project-command-line-arguments)                                  |
+|      16 | [Implémentation d'une liste doublement chaînée en C](https://labex.io/fr/courses/project-doubly-linked-list)                                         | ★☆☆          | [🚀 Commencer le Lab](https://labex.io/fr/courses/project-doubly-linked-list)                                      |
+|      17 | [Implémentation de la structure de données File en C](https://labex.io/fr/courses/project-implementing-a-queue)                                      | ★☆☆          | [🚀 Commencer le Lab](https://labex.io/fr/courses/project-implementing-a-queue)                                    |
+|      18 | [Tri des cours avec le tri à bulles](https://labex.io/fr/courses/project-organizing-course-list)                                                     | ★☆☆          | [🚀 Commencer le Lab](https://labex.io/fr/courses/project-organizing-course-list)                                  |
+|      19 | [Building Remote Shell Client](https://labex.io/fr/courses/project-remote-shell)                                                                     | ★☆☆          | [🚀 Commencer le Lab](https://labex.io/fr/courses/project-remote-shell)                                            |
+
+## Plus
+
+- 🔗 [C En savoir plus sur](https://labex.io/fr/skilltrees/c)
+- 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+
