@@ -32,11 +32,10 @@ C-Programmierung ist das Fundament der Informatik. Dieser Skill Tree bietet eine
 |      16 | [Implementierung einer doppelt verketteten Liste in C](https://labex.io/de/courses/project-doubly-linked-list)                                   | ★☆☆             | [🚀 Labor Starten](https://labex.io/de/courses/project-doubly-linked-list)                                      |
 |      17 | [Implementierung der Warteschlangen-Datenstruktur in C](https://labex.io/de/courses/project-implementing-a-queue)                                | ★☆☆             | [🚀 Labor Starten](https://labex.io/de/courses/project-implementing-a-queue)                                    |
 |      18 | [Sortieren von Kursen mit Bubble Sort](https://labex.io/de/courses/project-organizing-course-list)                                               | ★☆☆             | [🚀 Labor Starten](https://labex.io/de/courses/project-organizing-course-list)                                  |
-|      19 | [Building Remote Shell Client](https://labex.io/de/courses/project-remote-shell)                                                                 | ★☆☆             | [🚀 Labor Starten](https://labex.io/de/courses/project-remote-shell)                                            |
 
 ## Mehr
 
 - 🔗 [C Erfahren Sie mehr über](https://labex.io/de/skilltrees/c)
-- 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Awesome Programmierprojekte](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Awesome Programmierungskurse](https://github.com/labex-labs/awesome-programming-courses)
 
