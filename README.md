@@ -32,7 +32,6 @@ C programming is the cornerstone of computer science. This Skill Tree provides a
 |      16 | [Implementing Doubly Linked List in C](https://labex.io/en/courses/project-doubly-linked-list)                                                | ★☆☆          | [🚀 Start Lab](https://labex.io/en/courses/project-doubly-linked-list)                                      |
 |      17 | [Implementing Queue Data Structure in C](https://labex.io/en/courses/project-implementing-a-queue)                                            | ★☆☆          | [🚀 Start Lab](https://labex.io/en/courses/project-implementing-a-queue)                                    |
 |      18 | [Sorting Courses with Bubble Sort](https://labex.io/en/courses/project-organizing-course-list)                                                | ★☆☆          | [🚀 Start Lab](https://labex.io/en/courses/project-organizing-course-list)                                  |
-|      19 | [Building Remote Shell Client](https://labex.io/en/courses/project-remote-shell)                                                              | ★☆☆          | [🚀 Start Lab](https://labex.io/en/courses/project-remote-shell)                                            |
 
 ## More
 
