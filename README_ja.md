@@ -32,11 +32,10 @@ C プログラミングはコンピュータサイエンスの基礎です。こ
 |             16 | [C 言語での双方向リンクリストの実装](https://labex.io/ja/courses/project-doubly-linked-list)                                                       | ★☆☆      | [🚀 ラボを開始](https://labex.io/ja/courses/project-doubly-linked-list)                                      |
 |             17 | [C 言語でキューデータ構造を実装する](https://labex.io/ja/courses/project-implementing-a-queue)                                                     | ★☆☆      | [🚀 ラボを開始](https://labex.io/ja/courses/project-implementing-a-queue)                                    |
 |             18 | [バブルソートによるコースの並べ替え](https://labex.io/ja/courses/project-organizing-course-list)                                                   | ★☆☆      | [🚀 ラボを開始](https://labex.io/ja/courses/project-organizing-course-list)                                  |
-|             19 | [Building Remote Shell Client](https://labex.io/ja/courses/project-remote-shell)                                                                   | ★☆☆      | [🚀 ラボを開始](https://labex.io/ja/courses/project-remote-shell)                                            |
 
 ## その他
 
 - 🔗 [C 言語 詳細について](https://labex.io/ja/skilltrees/c)
-- 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Awesome プログラミングプロジェクト](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Awesome プログラミングコース](https://github.com/labex-labs/awesome-programming-courses)
 
