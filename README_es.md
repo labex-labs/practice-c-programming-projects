@@ -32,11 +32,10 @@ La programación en C es la base de la informática. Este Skill Tree ofrece una 
 |       16 | [Implementación de una lista doblemente enlazada en C](https://labex.io/es/courses/project-doubly-linked-list)                                             | ★☆☆          | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/project-doubly-linked-list)                                      |
 |       17 | [Implementación de la estructura de datos Cola en C](https://labex.io/es/courses/project-implementing-a-queue)                                             | ★☆☆          | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/project-implementing-a-queue)                                    |
 |       18 | [Ordenar cursos con el algoritmo de burbuja](https://labex.io/es/courses/project-organizing-course-list)                                                   | ★☆☆          | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/project-organizing-course-list)                                  |
-|       19 | [Building Remote Shell Client](https://labex.io/es/courses/project-remote-shell)                                                                           | ★☆☆          | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/project-remote-shell)                                            |
 
 ## Más
 
 - 🔗 [C Aprende más sobre](https://labex.io/es/skilltrees/c)
-- 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Awesome Proyectos de Programación](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Awesome Cursos de Programación](https://github.com/labex-labs/awesome-programming-courses)
 
