@@ -32,11 +32,10 @@ C 语言编程是计算机科学的基石。本技能树为学习 C 语言提供
 |     16 | [在 C 语言中实现双向链表](https://labex.io/zh/courses/project-doubly-linked-list)                                             | ★☆☆    | [🚀 开始实验](https://labex.io/zh/courses/project-doubly-linked-list)                                      |
 |     17 | [在 C 语言中实现队列数据结构](https://labex.io/zh/courses/project-implementing-a-queue)                                       | ★☆☆    | [🚀 开始实验](https://labex.io/zh/courses/project-implementing-a-queue)                                    |
 |     18 | [使用冒泡排序对课程进行排序](https://labex.io/zh/courses/project-organizing-course-list)                                      | ★☆☆    | [🚀 开始实验](https://labex.io/zh/courses/project-organizing-course-list)                                  |
-|     19 | [Building Remote Shell Client](https://labex.io/zh/courses/project-remote-shell)                                              | ★☆☆    | [🚀 开始实验](https://labex.io/zh/courses/project-remote-shell)                                            |
 
 ## 更多
 
 - 🔗 [C 语言 了解更多](https://labex.io/zh/skilltrees/c)
-- 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Awesome 编程项目](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Awesome 编程课程](https://github.com/labex-labs/awesome-programming-courses)
 
