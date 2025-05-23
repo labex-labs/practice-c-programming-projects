@@ -32,11 +32,10 @@ C 프로그래밍은 컴퓨터 과학의 초석입니다. 이 스킬 트리는 C
 |       16 | [C 언어 기반 이중 연결 리스트 구현](https://labex.io/ko/courses/project-doubly-linked-list)                                                   | ★☆☆      | [🚀 실습 시작](https://labex.io/ko/courses/project-doubly-linked-list)                                      |
 |       17 | [C 언어로 큐 자료구조 구현하기](https://labex.io/ko/courses/project-implementing-a-queue)                                                     | ★☆☆      | [🚀 실습 시작](https://labex.io/ko/courses/project-implementing-a-queue)                                    |
 |       18 | [버블 정렬로 코스 정렬하기](https://labex.io/ko/courses/project-organizing-course-list)                                                       | ★☆☆      | [🚀 실습 시작](https://labex.io/ko/courses/project-organizing-course-list)                                  |
-|       19 | [Building Remote Shell Client](https://labex.io/ko/courses/project-remote-shell)                                                              | ★☆☆      | [🚀 실습 시작](https://labex.io/ko/courses/project-remote-shell)                                            |
 
 ## 더 보기
 
 - 🔗 [C 자세히 알아보기](https://labex.io/ko/skilltrees/c)
-- 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Awesome 프로그래밍 프로젝트](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Awesome 프로그래밍 코스](https://github.com/labex-labs/awesome-programming-courses)
 
