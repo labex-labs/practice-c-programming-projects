@@ -32,11 +32,10 @@
 |       16 | [Реализация двусвязного списка на языке C](https://labex.io/ru/courses/project-doubly-linked-list)                                                     | ★☆☆         | [🚀 Начать Лабораторию](https://labex.io/ru/courses/project-doubly-linked-list)                                      |
 |       17 | [Реализация структуры данных "очередь" на языке C](https://labex.io/ru/courses/project-implementing-a-queue)                                           | ★☆☆         | [🚀 Начать Лабораторию](https://labex.io/ru/courses/project-implementing-a-queue)                                    |
 |       18 | [Сортировка курсов с использованием пузырьковой сортировки](https://labex.io/ru/courses/project-organizing-course-list)                                | ★☆☆         | [🚀 Начать Лабораторию](https://labex.io/ru/courses/project-organizing-course-list)                                  |
-|       19 | [Building Remote Shell Client](https://labex.io/ru/courses/project-remote-shell)                                                                       | ★☆☆         | [🚀 Начать Лабораторию](https://labex.io/ru/courses/project-remote-shell)                                            |
 
 ## Больше
 
 - 🔗 [C Узнать больше о](https://labex.io/ru/skilltrees/c)
-- 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Awesome Проекты программирования](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Awesome Курсы программирования](https://github.com/labex-labs/awesome-programming-courses)
 
