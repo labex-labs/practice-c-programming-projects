@@ -32,11 +32,10 @@ La programmation en C est la pierre angulaire de l'informatique. Cet arbre de co
 |      16 | [Implémentation d'une liste doublement chaînée en C](https://labex.io/fr/courses/project-doubly-linked-list)                                         | ★☆☆          | [🚀 Commencer le Lab](https://labex.io/fr/courses/project-doubly-linked-list)                                      |
 |      17 | [Implémentation de la structure de données File en C](https://labex.io/fr/courses/project-implementing-a-queue)                                      | ★☆☆          | [🚀 Commencer le Lab](https://labex.io/fr/courses/project-implementing-a-queue)                                    |
 |      18 | [Tri des cours avec le tri à bulles](https://labex.io/fr/courses/project-organizing-course-list)                                                     | ★☆☆          | [🚀 Commencer le Lab](https://labex.io/fr/courses/project-organizing-course-list)                                  |
-|      19 | [Building Remote Shell Client](https://labex.io/fr/courses/project-remote-shell)                                                                     | ★☆☆          | [🚀 Commencer le Lab](https://labex.io/fr/courses/project-remote-shell)                                            |
 
 ## Plus
 
 - 🔗 [C En savoir plus sur](https://labex.io/fr/skilltrees/c)
-- 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Awesome Projets de Programmation](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Awesome Cours de Programmation](https://github.com/labex-labs/awesome-programming-courses)
 
