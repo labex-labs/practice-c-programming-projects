@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/GAbMWgBPUOxV.png">
 </div>
 
-C programming is the cornerstone of computer science. This Skill Tree provides a systematic way to learn the C language. It's perfect for programming beginners, offering a clear path to grasp memory management, pointers, and system-level programming. Hands-on, non-video courses and coding exercises in an interactive C language playground help you develop practical skills in writing efficient C programs.
+Learn C programming, a cornerstone of computer science, with this structured learning path designed for beginners. This collection of C courses provides a systematic roadmap to master the C language, covering fundamental concepts like memory management, pointers, and system-level programming. Develop practical skills by writing efficient C programs through hands-on, non-video exercises in an interactive C language playground.
 
 ## Exercises
 
