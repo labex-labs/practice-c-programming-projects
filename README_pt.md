@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/GAbMWgBPUOxV.png">
 </div>
 
-A linguagem C é a base da ciência da computação. Esta Skill Tree oferece uma maneira sistemática de aprender a linguagem C. É perfeita para iniciantes em programação, oferecendo um caminho claro para compreender o gerenciamento de memória, ponteiros e programação de baixo nível. Cursos práticos, sem vídeos, e exercícios de codificação em um playground interativo de linguagem C ajudam você a desenvolver habilidades práticas na escrita de programas C eficientes.
+Aprenda programação em C, a pedra angular da ciência da computação, com este roteiro de aprendizagem estruturado e projetado para iniciantes. Esta coleção de cursos de C oferece um caminho sistemático para dominar a linguagem C, cobrindo conceitos fundamentais como gerenciamento de memória, ponteiros e programação em nível de sistema. Desenvolva habilidades práticas escrevendo programas C eficientes através de exercícios práticos (não em vídeo) em um ambiente interativo de programação C.
 
 ## Exercícios
 
