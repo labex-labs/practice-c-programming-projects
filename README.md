@@ -1,3 +1,7 @@
+> 🔥 LabEx Black Friday 2025 Best Price of The Year｜[**Get 50% OFF Now →**](https://labex.io/pricing)
+
+---
+
 # Practice C Programming Projects
 
 ## Languages
